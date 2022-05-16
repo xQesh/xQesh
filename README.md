@@ -6,6 +6,6 @@
 
 ◇◇◇◇◇ ➤ Java (just started)
 
-## Goals in 2022
+## Goals
 
 **Start developing Java mobile apps**
