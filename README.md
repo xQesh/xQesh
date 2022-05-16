@@ -2,7 +2,7 @@
 
 ◆◆◇◇◇ ➤ Python
 
-◆◇◇◇◇ ➤ JavaScript
+◆◇◇◇◇ ➤ JavaScript, HTML
 
 ◇◇◇◇◇ ➤ Java (just started)
 
