@@ -1,12 +1,12 @@
-###Languages
+### Languages
 
 Python: ◆◆◇◇◇
 JavaScript: ◆◇◇◇◇
 Java: ◇◇◇◇◇ (just started)
 
-###Goals in 2022
+### Goals in 2022
 
-##Start developing Java mobile apps
+## Start developing Java mobile apps
 
 <!--
 - 🔭 I’m currently working on ...
