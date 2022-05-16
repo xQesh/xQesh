@@ -10,4 +10,4 @@
 
 **Start developing Java mobile apps**
 
-![ok](https://pin.it/2In2csF)
+![ok](https://www.josera.pl/media/magefan_blog/kot-w-upaly-1240x553.jpg)
