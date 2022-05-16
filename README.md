@@ -1,10 +1,10 @@
 ## Languages
 
-Python     ◆◆◇◇◇ 
+◆◆◇◇◇ --> Python
 
-JavaScript ◆◇◇◇◇
+◆◇◇◇◇ --> JavaScript
 
-Java       ◇◇◇◇◇ (just started)
+◇◇◇◇◇ --> Java (just started)
 
 ## Goals in 2022
 
