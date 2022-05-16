@@ -1,7 +1,9 @@
 ## Languages
 
-Python: ◆◆◇◇◇ /n
-JavaScript: ◆◇◇◇◇ /n
+Python: ◆◆◇◇◇ 
+
+JavaScript: ◆◇◇◇◇
+
 Java: ◇◇◇◇◇ (just started)
 
 ## Goals in 2022
