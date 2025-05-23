@@ -2,7 +2,7 @@
 
 ◆◆◇◇◇ ➤ Python
 
-◆◇◇◇◇ ➤ Java, JavaScript, HTML
+◆◇◇◇◇ ➤ Java, JavaScript, SQL, HTML
 
 ## Goals for 2025
 
