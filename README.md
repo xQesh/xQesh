@@ -4,7 +4,7 @@
 
 ◆◇◇◇◇ ➤ Java, JavaScript, SQL, HTML
 
-## Goals for 2025
+## Goals for 2026
 
 Learn Python to be more advanced (with roadmap.sh)
 
