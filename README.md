@@ -1,13 +1,9 @@
-## Languages
+## Skills
 
-◆◆◇◇◇ ➤ Python
+**_Favorite:_** 
 
-◆◇◇◇◇ ➤ Java, JavaScript, SQL, HTML
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-## Goals for 2026
+**_Others:_** 
 
-Learn Python to be more advanced (with roadmap.sh)
-
-Make a few new projects
-
-Have fun with coding
+[![](https://skillicons.dev/icons?i=java,javascript,sqlite,html,css)](https://skillicons.dev)
